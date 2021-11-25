@@ -1,2 +1,2 @@
-# Europa-3.1
-Europa 3.1 for you! (src isnt buildable its just in case u wanna skid smng) thanks to perry
+# Europa-3.1 SRC and .jar
+This is Europa 3.1 in case u wanna skid/use it!  :)
