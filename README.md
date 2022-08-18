@@ -1,4 +1,5 @@
 # Europa-3.1 SRC and .jar
+# ITS PROBABLY RATTED!!!
 This is Europa 3.1 in case u wanna skid/use it!  :)
 If you don't trust this use this! It's tested and safe: 
 https://github.com/Nutelaspaceman/Europa-1.1.5
